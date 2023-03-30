@@ -13,8 +13,8 @@ permlink: /committee/
 
 <div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block;  vertical-align: top">
 <p><img src="jean.jpg" style="height:150px"></p>
-<p><a href="https://scienceinthenoise.com/">Jean Garcia-Gathright</a></p>
-<p>Pintarest</p>
+<p><a href="https://scinoise.wordpress.com/">Jean Garcia-Gathright</a></p>
+<p>Pinterest</p>
 </div>
 
 <div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block;  vertical-align: top">
