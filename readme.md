@@ -1,6 +1,6 @@
-5th FAccTRec Workshop: Responsible Recommendation
+6th FAccTRec Workshop: Responsible Recommendation
 =================================================
 
-(c) 2022 Organizing committee of the 4th FAccTRec workshop: responsible recommendation, All rights reserved.
+(c) 2023 Organizing committee of the 6th FAccTRec workshop: responsible recommendation, All rights reserved.
 
-* site url: <https://facctrec.github.io/facctrec2022/>
+* site url: <https://facctrec.github.io/facctrec2023/>
