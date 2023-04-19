@@ -11,6 +11,7 @@ This year, we will collaborate with the [NORMALIZE](https://sites.google.com/vie
 
 ## What's New
 
+* 2023-04-19: [call for papers]({{ "/cfp/" | relative_url }})
 * 2023-04-30: opening this site
 
 ## Important Dates
