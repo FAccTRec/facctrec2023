@@ -10,7 +10,7 @@ The 6th FAccTRec Workshop on Responsible Recommendation at RecSys 2023 is a valu
 
 We currently plan for this workshop to be a hybrid workshop, with an in-person component in Singapore in addition to a virtual component. Further details will be forthcoming, but physical attendance in Singapore will be encouraged if possible but not necessary to participate in the workshop.
 
-This year, we are considering to collaborate with the NORMalize workshop https://sites.google.com/view/normalizeworkshop/, which discusses the normative design and evaluation of recommender systems.
+This year, we are considering to collaborate with the [NORMalize workshop](https://sites.google.com/view/normalizeworkshop/), which discusses the normative design and evaluation of recommender systems.
 
 ## Topics of Interest
 
