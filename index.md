@@ -7,8 +7,6 @@ permlink: /
 The 6th FAccTRec Workshop on Responsible Recommendation at [RecSys 2023](https://recsys.acm.org/recsys23/) is a valuable catalyst for research and community-building around fairness, accountability, transparency, and related topics in recommender systems.
 In this workshop, we welcome research and position papers about ethical, social, and legal issues brought by the development and the use of recommendations that will support a discussion on providing and evaluating socially responsible recommendations.
 
-This year, we will collaborate with the [NORMALIZE](https://sites.google.com/view/normalizeworkshop/) workshop, which discusses the normative design and evaluation of recommender systems. We will plan a joint session, but contributions are reviewed and published independently.
-
 ## What's New
 
 * 2023-04-19: [call for papers]({{ "/cfp/" | relative_url }})
