@@ -34,7 +34,7 @@ Authors working on these issues in Asia-Pacific contexts are encouraged to submi
 
 We encourage submissions on the above topics. No official proceedings will be published because the focus of this workshop is a discussion about the directions to build and manage responsible recommender systems and provide feedback on early-stage research. All accepted papers' manuscripts will be expected to be posted on arXiv.org by the authors, and an arXiv Index will index the accepted papers. We allow manuscripts that have already been published or are currently submitted to another venue, so long as arXiv publication is compatible with that venue's requirements; already-published manuscripts should be accompanied by a cover abstract justifying their contribution specifically to FAccTRec.
 
-Manuscripts must be submitted through EasyChair and will be reviewed by our program committee. The review process is single-blind; the authors' names do not need to be anonymized. Presentations will be held in an oral or a poster style.
+Manuscripts must be submitted through [EasyChair](https://easychair.org/conferences/?conf=facctrec2023) and will be reviewed by our program committee. The review process is single-blind; the authors' names do not need to be anonymized. Presentations will be held in an oral or a poster style.
 
 ### Position Papers
 

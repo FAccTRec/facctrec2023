@@ -9,6 +9,7 @@ In this workshop, we welcome research and position papers about ethical, social,
 
 ## What's New
 
+* 2023-06-27: [open submission](https://easychair.org/conferences/?conf=facctrec2023)
 * 2023-04-19: [call for papers]({{ "/cfp/" | relative_url }})
 * 2023-04-30: opening this site
 
