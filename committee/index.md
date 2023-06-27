@@ -18,7 +18,7 @@ permlink: /committee/
 </div>
 
 <div style="margin-bottom: 3ex; max-width: 50%; min-width: 200px; display: inline-block;  vertical-align: top">
-<p><img src="nassim.jpeg" style="height:150px"></p>
+<p><img src="nasim.jpeg" style="height:150px"></p>
 <p><a href="https://www.linkedin.com/in/nasimsonboli/">Nasim Sonboli</a></p>
 <p>Brown University</p>
 </div>
