@@ -5,6 +5,7 @@ permlink: /cfp/
 ---
 
 - Submission deadline: Aug. 3, 2023
+- Submission site: [EasyChair](https://easychair.org/conferences/?conf=facctrec2023)
 
 The 6th FAccTRec Workshop on Responsible Recommendation at RecSys 2023 is a valuable catalyst for research and community-building around fairness, accountability, transparency, and related topics in recommender systems. In this workshop, we welcome research and position papers about ethical, social, and legal issues brought by the development and the use of recommendations that will support a discussion on providing and evaluating socially responsible recommendations.
 
