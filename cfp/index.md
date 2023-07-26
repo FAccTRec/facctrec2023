@@ -19,7 +19,7 @@ FAccTRec stands for Fairness, Accountability, and Transparency in Recommender Sy
 
 **Responsibility:** What does it mean for a recommender system to be socially responsible? How can we assess the social and human impact of recommender systems?
 
-**Fairness:** What might ‘fairness' mean in the context of recommendation? How could search and recommendation engines be unfair, and how could we measure such unfairness? How can we integrate user perceptions of fairness with its technical definitions?
+**Fairness:** What might ‘fairness’ mean in the context of recommendation? How could search and recommendation engines be unfair, and how could we measure such unfairness? How can we integrate user perceptions of fairness with its technical definitions?
 
 **Accountability:** To whom, and under what standard, should a recommender system be accountable? How can or should it and its operators be held accountable? What harms should such accountability be designed to prevent?
 
@@ -33,7 +33,7 @@ Authors working on these issues in Asia-Pacific contexts are encouraged to submi
 
 ## Submission Guidelines
 
-We encourage submissions on the above topics. No official proceedings will be published because the focus of this workshop is a discussion about the directions to build and manage responsible recommender systems and provide feedback on early-stage research. All accepted papers' manuscripts will be expected to be posted on arXiv.org by the authors, and an arXiv Index will index the accepted papers. We allow manuscripts that have already been published or are currently submitted to another venue, so long as arXiv publication is compatible with that venue's requirements; already-published manuscripts should be accompanied by a cover abstract justifying their contribution specifically to FAccTRec.
+We encourage submissions on the above topics. No official proceedings will be published because the focus of this workshop is a discussion about the directions to build and manage responsible recommender systems and provide feedback on early-stage research. All accepted papers' manuscripts will be expected to be posted on arXiv.org by the authors. We allow manuscripts that have already been published or are currently submitted to another venue, so long as arXiv publication is compatible with that venue's requirements; already-published manuscripts should be accompanied by a cover abstract justifying their contribution specifically to FAccTRec.
 
 Manuscripts must be submitted through [EasyChair](https://easychair.org/conferences/?conf=facctrec2023) and will be reviewed by our program committee. The review process is single-blind; the authors' names do not need to be anonymized. Presentations will be held in an oral or a poster style.
 
