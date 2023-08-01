@@ -22,15 +22,13 @@ In this workshop, we welcome research and position papers about ethical, social,
 ## Important Dates
 
 - 2023-08-03: Abstract registration deadline
-- <span style="text-decoration: line-through;">2023-08-03</span> 
+- <span style="text-decoration: line-through;">2023-08-03</span>   2023-08-07: Paper submission deadline
 - 2023-08-27: Author notification
 - 2023-09-10: Final version upload
 - 2023-09-18 - 2023-09-22 (TBA): Workshop
 
 TIMEZONE: Anywhere On Earth (UTC-12)
 
-<!--
 ## FAccT Network
 
 The FAccTRec 2023 workshop is proudly a part of the [FAccT network](https://facctconference.org/network/), to publish and engage with fairness, accountability, and transparency scholars across connected disciplines.
--->

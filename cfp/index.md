@@ -63,7 +63,7 @@ Papers should be submitted from EasyChair. Please do not forget to choose your t
 ## Important Dates
 
 - 2023-08-03: Abstract registration deadline
-- <span style="text-decoration: line-through;">2023-08-03</span> 2023-08-07: Paper submission deadline
+- <span style="text-decoration: line-through;">2023-08-03</span>  2023-08-07: Paper submission deadline
 - 2023-08-27: Author notification
 - 2023-09-10: Final version upload
 
