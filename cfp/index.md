@@ -4,7 +4,8 @@ layout: page
 permlink: /cfp/
 ---
 
-- Submission deadline: Aug. 3, 2023
+- Abstract registration deadline: Aug 3, 2023
+- Paper submission deadline: Aug. 7, 2023
 - Submission site: [EasyChair](https://easychair.org/conferences/?conf=facctrec2023)
 
 The 6th FAccTRec Workshop on Responsible Recommendation at RecSys 2023 is a valuable catalyst for research and community-building around fairness, accountability, transparency, and related topics in recommender systems. In this workshop, we welcome research and position papers about ethical, social, and legal issues brought by the development and the use of recommendations that will support a discussion on providing and evaluating socially responsible recommendations.
@@ -61,7 +62,8 @@ Papers should be submitted from EasyChair. Please do not forget to choose your t
 
 ## Important Dates
 
-- 2023-08-03: Paper submission deadline
+- 2023-08-03: Abstract registration deadline
+- <span style="text-decoration: line-through;">2023-08-03</span> 2023-08-07: Paper submission deadline
 - 2023-08-27: Author notification
 - 2023-09-10: Final version upload
 
