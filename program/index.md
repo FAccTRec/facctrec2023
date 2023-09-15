@@ -20,10 +20,10 @@ The workshop is on **Monday, Sep. 18**, from 9AM to 5:35 PM SGT (UTC+8).
 
 ## Session 3 (14:00–15:20 SGT, 06:00–07:20 UTC)
 
-* 14:00–14:25 [on-site long]: [Exploring Social Choice Mechanisms for Recommendation Fairness in SCRUF]() by Amanda Aird, Cassidy All, Farastu Paresha, Elena Štefancová, Joshua Sun, Nicholas Mattei, and Robin Burke.
-* 14:25–14:40 [on-site short]: [Towards Individual and Multistakeholder Fairness in Tourism Recommender Systems](https://arxiv.org/abs/2309.02052) by Ashmi Banerjee, Paromita Banik, and Wolfgang Wörndl.
-* 14:40–15:05 [on-site long]: [Towards Measuring Fairness in Grid-Based Layout in Recommender Systems](https://md.ekstrandom.net/pubs/facctrec23-grids) by Amifa Raj and Michael Ekstrand.
-* 15:05–15:20 [on-site short]: [Re-formalization of Individual Fairness](https://arxiv.org/abs/2309.05521) by Toshihiro Kamishima.
+* 14:00–14:15 [on-site short]: [Towards Individual and Multistakeholder Fairness in Tourism Recommender Systems](https://arxiv.org/abs/2309.02052) by Ashmi Banerjee, Paromita Banik, and Wolfgang Wörndl.
+* 14:15–14:30 [on-site short]: [Re-formalization of Individual Fairness](https://arxiv.org/abs/2309.05521) by Toshihiro Kamishima.
+* 14:30–14:55 [on-site long]: [Exploring Social Choice Mechanisms for Recommendation Fairness in SCRUF]() by Amanda Aird, Cassidy All, Farastu Paresha, Elena Štefancová, Joshua Sun, Nicholas Mattei, and Robin Burke.
+* 14:55–15:20 [on-site long]: [Towards Measuring Fairness in Grid-Based Layout in Recommender Systems](https://md.ekstrandom.net/pubs/facctrec23-grids) by Amifa Raj and Michael Ekstrand.
 
 ## Session 4 (16:05–17:35 SGT, 08:05–09:35 UTC)
 
