@@ -9,6 +9,7 @@ In this workshop, we welcome research and position papers about ethical, social,
 
 ## What's New
 
+* 2023-09-16: <a rel="me" href="https://recsys.social/@FAccTRec">Follow us on Mastodon</a>
 * 2023-08-22: The date of the workshop is fixed to 2023-09-18
 * 2023-08-01: Deadline extension. A new deadline is Aug. 7, but authors must register an abstract before Aug. 3.
 * 2023-07-26: [We invited Rishabh Mehrotra as a keynote speaker]({{ "/keynote/" | relative_url }})
