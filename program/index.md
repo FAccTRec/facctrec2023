@@ -9,7 +9,7 @@ The workshop is on **Monday, Sep. 18**, from 9AM to 5:35 PM SGT (UTC+8).
 ## Session 1 (09:00–10:30 SGT, 01:00–02:30 UTC)
 
 * Welcome
-* [Opening Keynote](../keynote/) by Rishabh Mehrotra [virtual]
+* [Opening Keynote](../keynote/) by Rishabh Mehrotra: “The next billion: design choices and stakeholder outcomes in multi-stakeholder RecSys” [virtual]
 
 ## Session 2 (11:15–12:35 SGT, 03:15–04:35 UTC)
 
