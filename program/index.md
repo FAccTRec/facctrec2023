@@ -25,6 +25,7 @@ The workshop is on **Monday, Sep. 18**, from 9AM to 5:35 PM SGT (UTC+8).
 * 14:00–14:15 [on-site short]: [Towards Individual and Multistakeholder Fairness in Tourism Recommender Systems](https://arxiv.org/abs/2309.02052) by Ashmi Banerjee, Paromita Banik, and Wolfgang Wörndl.
 	* [slide](slide-banerjee.pdf)
 * 14:15–14:30 [on-site short]: [Re-formalization of Individual Fairness](https://arxiv.org/abs/2309.05521) by Toshihiro Kamishima.
+	* [slide](slide-kamishima.pdf)
 * 14:30–14:55 [on-site long]: [Exploring Social Choice Mechanisms for Recommendation Fairness in SCRUF](https://arxiv.org/abs/2309.08621) by Amanda Aird, Cassidy All, Farastu Paresha, Elena Štefancová, Joshua Sun, Nicholas Mattei, and Robin Burke.
 * 14:55–15:20 [on-site long]: [Towards Measuring Fairness in Grid-Based Layout in Recommender Systems](https://arxiv.org/abs/2309.10271) by Amifa Raj and Michael Ekstrand.
 
