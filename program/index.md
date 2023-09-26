@@ -14,7 +14,7 @@ The workshop is on **Monday, Sep. 18**, from 9AM to 5:35 PM SGT (UTC+8).
 
 ## Session 2 (11:15–12:35 SGT, 03:15–04:35 UTC)
 
-* 11:15–11:40 [virtual long]: [Fairness Vs. Personalization: Towards Equity in Epistemic Utility](https://arxiv.org/abs/2309.11503) by Jennifer Chien and David Danks.
+* 11:15–11:40 [virtual long]: [Fairness Vs. Personalization: Towards Equity in Epistemic Utility](https://arxiv.org/abs/2309.11503) by [Jennifer Chien](https://arxiv.org/abs/2309.11503) and David Danks.
 * 11:40–12:05 [virtual long]: [Fair and Responsible Beauty Product Recommendation by Assessing Face Illumination Quality](https://www.amazon.science/publications/improving-the-accuracy-of-beauty-product-recommendations-by-assessing-face-illumination-quality) by Parnian Afshar, Jenny Yeon, Andriy Levitskyy, Rahul Suresh, and Amin Banitalebi-Dehkordi.
 * 12:05–12:20 [virtual short]: [Counterfactual Graph Augmentation for Consumer Unfairness Mitigation in Recommender Systems](https://arxiv.org/abs/2308.12083) by Ludovico Boratto, Francesco Fabbri, Gianni Fenu, Mirko Marras, and Giacomo Medda.
 	* [code](https://github.com/jackmedda/RS-BGExplainer/tree/cikm2023)
